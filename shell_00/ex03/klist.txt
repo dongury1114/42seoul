@@ -1,0 +1,6 @@
+Credentials cache: API:8B5FFA64-72CB-4680-BE68-59B5A86FD493
+        Principal: donggyle@42SEOUL.KR
+
+  Issued                Expires               Principal
+Oct 11 09:39:50 2021  Oct 11 19:39:50 2021  krbtgt/42SEOUL.KR@42SEOUL.KR
+Oct 11 09:39:51 2021  Oct 11 19:39:50 2021  HTTP/student-storage.42seoul.kr@42SEOUL.KR
